@@ -1,0 +1,35 @@
+1)	Projectstructuur opzetten
+	-	Nieuwe GITHUB Repo
+	-	Project: HMTL CSS EN JSS files + readme file
+	-	In readme: doel project, gebruikt technologieeen, roadmap
+2)	Azure omgeving klaarzetten
+	-	Account aanmaken + resource group
+	-	Storage account aanmaken
+	-	Blob storage aanmaken + container (filmcontainer). 
+	-	Public acces zodat ik eraan kan (blob: readonly)
+3)	Testfilms verzamelen
+	-	Films downloaden (10 tal testfilms en 10 tal echte)
+	-	Uploaden nr blob storage en testen
+	-	Elke film/testfilm zou dan een URL moeten hebben die ik kan gebruiken in mijn code. 
+4)	Werken aan de frontend
+	-	Filmlijst
+	-	Navbar
+	-	Grid van films (via JS dynamisch maken)
+	-	Responsive
+	-	Simpele UI
+Javascript: Array van film URL’s, dynamisch genereren van filmscards, video laten afspelen.
+5)	Koppelen met Blob storage
+	-	Eerst hard coded URLs in JS 
+	-	Daarna evt met JSON in blob storage en metadata en fetch implementatie => fetch JSON uit blob storage
+6)	Deployment en testdeployment
+	-	Azure static web apps of azure storage static website
+7)	React integratie
+	-	Later stadium 
+8)	Handleiding schrijven
+	-	Project uitleg
+	-	Installatie of openen
+	-	Azure setup handleiding
+	-	Deployment stappen
+9)	Reflectieverslag schrijven
+	-	Wat ging goed/minder goed etc,…
+
