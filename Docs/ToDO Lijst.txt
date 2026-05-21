@@ -4,15 +4,15 @@ Opstart
 - In readme: doel project, gebruikt technologieeen DONE
 
 Azure omgeving klaarzetten
-- Account aanmaken + resource group
-- Storage account aanmaken
-- Blob storage aanmaken + container (filmcontainer). 
-- Public acces zodat ik eraan kan (blob: readonly)
+- Account aanmaken + resource group DONE
+- Storage account aanmaken DONE
+- Blob storage aanmaken + container (filmcontainer). DONE
+- Public acces zodat ik eraan kan (blob: readonly) DONE
 
 Testfilms verzamelen
-    - Films downloaden (10 tal testfilms en 10 tal echte)
-	-	Uploaden nr blob storage en testen
-	-	Elke film/testfilm zou dan een URL moeten hebben die ik kan gebruiken in mijn code. 
+    - Films downloaden (10 tal testfilms en 10 tal echte) DONE
+	-	Uploaden nr blob storage en testen DONE
+	-	Elke film/testfilm zou dan een URL moeten hebben die ik kan gebruiken in mijn code. DONE
 Werken aan de frontend
 	-	Filmlijst
 	-	Navbar
