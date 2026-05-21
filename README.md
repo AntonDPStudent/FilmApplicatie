@@ -12,6 +12,7 @@ Gebruikte technologieeen:
 - Azure Blob storage
 - Azure Static web apps
 - Azure Storage accounts
+- Bootstrap
 
 
 
