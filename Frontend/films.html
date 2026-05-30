@@ -44,6 +44,65 @@
           <i class="bi bi-brightness-high"></i>
         </button>
                 </div>
-    <!-- Zoekfunctie: Later toevoegen -->
+                 </nav>
+    <!-- Zoekfunctie NAVBAR: Later toevoegen -->
+<header></header>
+<main class="container py-5">
+    <div class="row align-items-end mb-4">
+      <div class="col-md-8">
+        <h1 class="fw-bold">Films</h1>
+        <p class="text-body-secondary mb-0">
+          Alle films staan hier nu handmatig in HTML en per categorie
+        </p>
+      </div>
+      <div class="col-md-4 text-md-end mt-3 mt-md-0">
+      </div>
+    </div>
+
+    <!-- =====================================================
+         CATEGORIE: ACTIE
+         ===================================================== -->
+ <section id="actie" class="movie-section">
+      <h2 class="section-title">Actie</h2>
+
+      <div class="row g-4">
+
+        <!-- FILMKAART: TEST -->
+        <div class="col-6 col-md-4 col-lg-3 film" data-title="TEST">
+          <div
+            class="card movie-card h-100"
+            onclick="speelFilm(
+              'TEST',
+              'https://jouwstorageaccount.blob.core.windows.net/movies/the-walking-dead/video.mp4',
+              'https://jouwstorageaccount.blob.core.windows.net/movies/the-walking-dead/subtitles-nl.vtt'
+            )"
+          >
+            <!--Poster voor film (URL uit azure blob?)-->
+            <img
+              src="https://placehold.co/600x400"
+              class="card-img-top movie-poster"
+              alt="Poster TEST"
+            >
+
+            <div class="card-body">
+              <h5 class="card-title">TEST</h5>
+              <p class="card-text small text-body-secondary mb-1">Jaar • Actie • Drama • Horror</p>
+              <p class="card-text small">
+                Beschrijving film
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!--Andere categorieeen en films verder toe te voegen HIER-->
+</div>
+ </section>
+
+
+<footer>Hier footer</footer>
+<!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Eigen JS -->
+  <script src="script.js"></script>
 </body>
 </html>
