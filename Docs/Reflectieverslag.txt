@@ -1,0 +1,11 @@
+Tijdens het LLL-project heb ik gewerkt aan een filmapp. In dit project was het de bedoeling om een eenvoudige applicatie te maken waarin gebruikers films kunnen opzoeken en bekijken. Ik vond dit een interessant project, omdat het aansloot bij iets herkenbaars uit het dagelijks leven en omdat ik mijn kennis rond development verder kon toepassen.
+
+In het begin was het soms moeilijk om goed te bepalen hoe de app moest worden opgebouwd. Ik moest nadenken over de structuur, de functies en hoe alles overzichtelijk kon worden weergegeven. Door stap voor stap te werken, werd het project duidelijker. Ik heb geleerd dat een goede voorbereiding belangrijk is, bijvoorbeeld door eerst te plannen welke onderdelen de app nodig heeft.
+
+Tijdens dit LLL-traject heb ik ook gewerkt aan mijn persoonlijke ontwikkeling. Zo heb ik twee certificaten behaald: Azure Udemy AZ-900 en Coursera Full Stack JavaScript Developer. Deze opleidingen hebben mij geholpen om meer inzicht te krijgen in cloudconcepten, webontwikkeling en het bouwen van moderne applicaties. De kennis uit deze certificaten kon ik koppelen aan mijn filmapp, vooral bij het nadenken over de opbouw van een applicatie en het gebruik van JavaScript.
+
+Tijdens het project heb ik vooral bijgeleerd over het maken van een gebruiksvriendelijke interface en het logisch opbouwen van een applicatie. Ook heb ik gemerkt dat testen belangrijk is. Soms werkte iets niet meteen zoals verwacht, maar door fouten op te zoeken en aan te passen, kwam ik telkens dichter bij een beter resultaat.
+
+Ik ben tevreden over het eindresultaat, omdat de filmapp eenvoudig en duidelijk werkt. Toch zijn er ook dingen die ik in de toekomst beter zou doen. Ik zou bijvoorbeeld meer tijd nemen om vooraf een duidelijk ontwerp te maken en de functies beter te verdelen. Ook zou ik proberen om de app nog mooier en uitgebreider te maken.
+
+Over het algemeen vond ik het LLL-project leerrijk. Ik heb niet alleen technische vaardigheden verbeterd, maar ook geleerd om problemen op te lossen en zelfstandig verder te werken. Door het maken van de filmapp en het behalen van de twee certificaten heb ik mijn kennis verder uitgebreid en meer vertrouwen gekregen in mijn vaardigheden als ICT’er.
