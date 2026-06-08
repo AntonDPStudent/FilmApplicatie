@@ -20,7 +20,7 @@
     <nav class="navbar navbar-expand-lg sticky-top border-bottom app-navbar">
         <div class="container-fluid">
             <a href="Index.html" class="navbar-brand fw-bold">
-                Logo?
+                <img src="Img/Logo_gegenereerd.png" alt="Logo" class="appLogo">
             </a>
     <!--Menu toggler rechts-->
             <button class="navbar-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu">
@@ -51,18 +51,17 @@
       <div class="container">
       <div class="col-lg-6">
         <span class="badge bg-danger mb-3">Films</span>
-        <h1>Titel</h1>
+        <h1>Avatar</h1>
         <p class="introtekst">
-          introtekst film
+          Film met Blauwe beesten.
         </p>
 
         <!-- Blob URL insteken-->
         <button
           class="btn btn-danger btn-lg"
           onclick="speelFilm(
-            'TEST',
-              'https://jouwstorageaccount.blob.core.windows.net/movies/the-walking-dead/video.mp4',
-              'https://jouwstorageaccount.blob.core.windows.net/movies/the-walking-dead/subtitles-nl.vtt'
+            'Avatar',
+              'https://movieappantonstorage.blob.core.windows.net/moviecontainer/Films/Avatar2/Avatar.The.Way.Of.Water.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4'
           )"
         >
           <i class="bi bi-play-fill"></i>
@@ -128,7 +127,7 @@
       </div>
     </div>
      </main>
-     <footer>Hier footer</footer>
+     <footer>Made BY Anton</footer>
          <!-- Videospeler -->
 <div class="modal fade" id="filmVenster" tabindex="-1">
   <div class="modal-dialog modal-xl modal-dialog-centered">
@@ -145,7 +144,7 @@
       </div>
 
       <div class="modal-body">
-        <video id="filmSpeler" class="w-100" controls>
+        <video id="filmSpeler" class="w-100" controls preload="metadata">
           Je browser ondersteunt geen video.
         </video>
       </div>

@@ -1,0 +1,48 @@
+a naar films.html.
+Kopieer een bestaande filmkaart en pas deze stukken aan:
+
+1. data-title
+2. data-category
+3. data-year
+4. titel in speelFilm()
+5. video URL
+6. ondertitel URL
+7. poster URL
+8. titel in <h5>
+9. categorieën en beschrijving
+
+Voorbeeld:
+
+<div class="col-6 col-md-4 col-lg-3 film" data-title="Mijn Film" data-category="actie scifi" data-year="2026">
+  <div
+    class="card movie-card h-100"
+    onclick="speelFilm(
+      'Mijn Film',
+      'https://jouwstorageaccount.blob.core.windows.net/movies/mijn-film/video.mp4',
+      'https://jouwstorageaccount.blob.core.windows.net/movies/mijn-film/subtitles-nl.vtt'
+    )"
+  >
+    <img
+      src="https://jouwstorageaccount.blob.core.windows.net/movies/mijn-film/poster.jpg"
+      class="card-img-top movie-poster"
+      alt="Poster Mijn Film"
+    >
+
+    <div class="card-body">
+      <h5 class="card-title">Mijn Film</h5>
+      <p class="card-text small text-body-secondary mb-1">2026 • Actie • Sci-Fi</p>
+      <p class="card-text small">
+        Korte beschrijving van mijn film.
+      </p>
+    </div>
+  </div>
+</div>
+
+
+Azure Blob Storage voorbeeldstructuur:
+
+movies/
+├── mijn-film/
+│   ├── video.mp4
+│   ├── poster.jpg
+│   └── subtitles-nl.vtt

@@ -312,10 +312,12 @@ main p {
 }
 
 .movie-poster {
-  height: 180px;
+  height: 340px;
   object-fit: cover;
-  background: #252b33;
+  background: #000;
 }
+
+
 
 .movie-card .card-body {
   padding: 1rem;
@@ -401,4 +403,15 @@ footer {
   .category-card {
     min-height: 135px;
   }
+}
+
+#filmSpeler {
+  max-height: 75vh;
+  background: #000;
+}
+
+.appLogo{
+   height: 65px;
+  width: auto;
+  object-fit: contain;
 }

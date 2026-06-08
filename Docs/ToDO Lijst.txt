@@ -16,13 +16,13 @@ Testfilms verzamelen
 Werken aan de frontend
 	-	Filmlijst DONE
 	-	Navbar DONE
-	-	Grid van films (via JS dynamisch maken)
-	-	Responsive DONE
+	-	Grid van films (via JS dynamisch maken) DONE
+	-	Responsive DONE 
 	-	Simpele UI DONE
 Javascript: Array van film URL’s, dynamisch genereren van filmscards, video laten afspelen.
 
 Koppelen met Blob storage
-	-	Eerst hard coded URLs in JS 
+	-	Eerst hard coded URLs in JS DONE
 	-	Daarna evt met JSON in blob storage en metadata en fetch implementatie => fetch JSON uit blob storage
 Deployment en testdeployment
 	-	Azure static web apps of azure storage static website
