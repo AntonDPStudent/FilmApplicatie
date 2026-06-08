@@ -1,4 +1,6 @@
-a naar films.html.
+Upload je film/poster in Azure Blob Storage en zorg dat je de URLS hebt.
+
+Ga naar films.html.
 Kopieer een bestaande filmkaart en pas deze stukken aan:
 
 1. data-title
